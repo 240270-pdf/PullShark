@@ -6,3 +6,6 @@ Pull Request (PR) y Merge PR
 En esta práctica se desarrolló una aplicación web que consume una API de mapas (Google Maps y Leaflet) para mostrar información geográfica en un mapa interactivo. Se implementaron funciones como búsqueda, geolocalización, manejo de marcadores y exportación de datos en formato JSON.
 
 ---
+## 📍 Objetivo
+
+Esta práctica tiene como finalidad que el estudiante sea capaz de integrar servicios de mapas utilizando APIs externas, implementando funcionalidades de geocodificación, marcadores interactivos y herramientas de geolocalización.
